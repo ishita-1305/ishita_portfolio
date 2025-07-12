@@ -21,7 +21,7 @@ const projects = [
     type: "web",
     description:
       "A timetable planner for campus schedules. Built with Next.js and calendar UI.",
-    url: "https://github.com/Srish-ty/Campus-Scheduler", // Replace if public
+    url: "https://github.com/Campus-Scheduler", // Replace if public
   },
   // {
   //   image: `${process.env.PUBLIC_URL}/assets/portfolio.png`,

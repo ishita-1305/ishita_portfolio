@@ -78,7 +78,12 @@ function Projects() {
             <div className="card-info">
               <h3>Portfolio Website</h3>
               <p>The portfolio website you are staring at right now!</p>
-              <a target="_blank" rel="noopener noreferrer" href="/" class="btn">
+              <a
+                target="https://ishita-portfolio-xi.vercel.app/"
+                rel="noopener noreferrer"
+                href="/"
+                class="btn"
+              >
                 Go to Project
               </a>
             </div>
